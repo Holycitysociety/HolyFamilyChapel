@@ -204,7 +204,7 @@ h3 {
 }
 
 h1 {
-  font-size: clamp(2.3rem, 5vw, 4.6rem);
+  font-size: clamp(2.3rem, 2.5vw, 4.6rem);
   max-width: 12ch;
 }
 
@@ -577,7 +577,7 @@ address {
   }
 
   h1 {
-    font-size: clamp(2.1rem, 10vw, 3.25rem);
+    font-size: clamp(2.1rem, 5vw, 3.25rem);
     line-height: 1.02;
     letter-spacing: -0.015em;
     max-width: 9ch;
