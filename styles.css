@@ -580,7 +580,7 @@ address {
     font-size: clamp(2.1rem, 4vw, 3.25rem);
     line-height: 1.02;
     letter-spacing: -0.015em;
-    max-width: 16ch;
+    max-width: 18ch;
   }
 
   h2 {
